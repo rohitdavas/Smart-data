@@ -1,0 +1,85 @@
+
+input features : [0.         0.         0.         0.         1.         0.
+ 0.         0.06956714 0.        ]
+true output [1200. 2500.] 
+predicted output : [1220.0074 2537.2288]
+
+input features : [0.         0.         0.         0.         1.         0.
+ 0.         0.20870142 0.        ]
+true output [1200. 2500.] 
+predicted output : [1219.1614 2535.518 ]
+
+input features : [0.         0.         0.         0.         0.         1.
+ 0.         0.09938163 1.        ]
+true output [0. 0.] 
+predicted output : [0.23043084 0.3183508 ]
+
+input features : [0.         1.         0.         0.         0.         0.
+ 0.         0.71532685 0.        ]
+true output [ 600. 1200.] 
+predicted output : [ 599.1646 1197.091 ]
+
+input features : [0.        0.        0.        1.        0.        0.        0.
+ 0.0284894 1.       ]
+true output [0. 0.] 
+predicted output : [0.59763    0.80256367]
+
+input features : [1.        0.        0.        0.        0.        0.        0.
+ 0.2440371 1.       ]
+true output [0. 0.] 
+predicted output : [-0.1161232 -0.3171134]
+
+input features : [0.         0.         0.         1.         0.         0.
+ 0.         0.83149296 1.        ]
+true output [250. 600.] 
+predicted output : [251.15054 600.90704]
+
+input features : [0.        1.        0.        0.        0.        0.        0.
+ 0.7608216 1.       ]
+true output [250. 500.] 
+predicted output : [252.0355  503.38794]
+
+input features : [0.         0.         0.         1.         0.         0.
+ 0.         0.49230346 1.        ]
+true output [250. 600.] 
+predicted output : [252.07935 600.6154 ]
+
+input features : [0.         0.         0.         0.         0.         1.
+ 0.         0.35865724 1.        ]
+true output [0. 0.] 
+predicted output : [0.18715239 0.45287704]
+
+input features : [1.       0.       0.       0.       0.       0.       0.       0.142447
+ 0.      ]
+true output [100. 250.] 
+predicted output : [102.21653 256.365  ]
+
+input features : [0.         0.         0.         1.         0.         0.
+ 0.         0.15006626 0.        ]
+true output [300. 600.] 
+predicted output : [308.33328 615.7603 ]
+
+input features : [1.         0.         0.         0.         0.         0.
+ 0.         0.31978798 0.        ]
+true output [100. 250.] 
+predicted output : [101.855774 254.849   ]
+
+input features : [0.        0.        1.        0.        0.        0.        0.
+ 0.6227915 0.       ]
+true output [ 550. 1200.] 
+predicted output : [ 522.1756 1155.5808]
+
+input features : [1.         0.         0.         0.         0.         0.
+ 0.         0.07608216 1.        ]
+true output [0. 0.] 
+predicted output : [0.31886864 0.43673897]
+
+input features : [1.         0.         0.         0.         0.         0.
+ 0.         0.98166966 1.        ]
+true output [0. 0.] 
+predicted output : [0.09147215 0.11065626]
+
+input features : [0.         0.         0.         0.         0.         1.
+ 0.         0.04085689 0.        ]
+true output [0. 0.] 
+predicted output : [0.18649554 0.2791643 ]
